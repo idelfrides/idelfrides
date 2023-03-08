@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **Data Science**
 - 💞️ I’m looking to collaborate on projects about **Data Science**
 - 📫 How to reach me arrund web  
--    Web : [My website](https://linktr.ee/ijwm_oficial) 
--    
+-    IJ in the Web : [My website](https://linktr.ee/ijwm_oficial) 
+   
 
 <!---
 idelfrides/idelfrides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
