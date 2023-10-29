@@ -27,12 +27,12 @@
 <!-- All inbuilt themes
 GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).  -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&show_icons=true&theme=highcontrast)](https://github.com/idelfrides/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical)](https://github.com/idelfrides/github-readme-stats)
 
 ---
 ➡️ **TECHNOLOGIES / DEV LANGUAGES**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelfrides&size_weight=1&count_weight=2&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelfrides&langs_count=10&layout=compact&size_weight=1&count_weight=2&show_icons=true&theme=radical)
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
