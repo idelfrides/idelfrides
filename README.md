@@ -3,7 +3,7 @@ My name is *Idelfrides Jorge* and I'm glad to have you here .
 
 I am a Computer Engineer and Python Full Stack Developer . 
 
-My interests are  **Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic**.
+My interests are  *Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic*.
 
 I’m currently learning **Data Science** .
 
