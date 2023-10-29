@@ -24,6 +24,12 @@
 
 ---
 
+<!-- All inbuilt themes
+GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).  -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&show_icons=true&theme=highcontrast)](https://github.com/idelfrides/github-readme-stats)
+
+---
 ➡️ **TECHNOLOGIES / DEV LANGUAGES**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelfrides&size_weight=1&count_weight=2&show_icons=true&theme=dark)
