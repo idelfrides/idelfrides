@@ -27,7 +27,7 @@
 <!-- All inbuilt themes
 GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).  -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical)](https://github.com/idelfrides/github-readme-stats)
+[![Idelfrides's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&show_icons=true&show=prs_merged,&theme=radical)](https://github.com/idelfrides/github-readme-stats)
 
 ---
 ➡️ **TECHNOLOGIES / DEV LANGUAGES**
