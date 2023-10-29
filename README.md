@@ -13,7 +13,7 @@ I’m currently learning **Data Science** .
 
 ➡️ **FIND ME ON THE WEB**
 
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)]) 
+[![Linktree555555](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=yellow)](https://linktr.ee/ijwm_oficial)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engidelfridesjorge/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ijwm_oficial/)
 
