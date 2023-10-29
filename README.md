@@ -1,17 +1,22 @@
-# Hi there, Welcome!  🖐️
-My name is *Idelfrides Jorge* and I'm glad to have you here .
+# Hi there, You're Welcome! 🖐️
 
-I am a Computer Engineer and Python Full Stack Developer . 
+ My name is *Idelfrides Jorge* and I'm glad to have you here .
 
-My interests are  *Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic*.
+-  I am a Computer Engineer and Python Full Stack Developer  🔥 . 
 
-I’m currently learning **Data Science** .
+- I am currently working at [Instituto Atlântico](https://www.atlantico.com.br/)  💖
 
-📫 How to reach me arrund web -> next section
+- My interests are  *Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic*.
+
+- I’m currently learning **Data Science**  🎯 .
+  
+- 💬 Ask me about Python, Go(Golang), Django, Flask, SQL, Data Science universe.
+
+- 👨‍💻 More at [My Website](https://linktr.ee/ijwm_oficial)
 
 ---
 
-➡️ **FIND ME ON THE WEB**
+# Contact Me
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ijwm_oficial)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engidelfridesjorge/)
