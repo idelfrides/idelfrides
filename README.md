@@ -1,9 +1,10 @@
-- # Hi, there  🖐️
-- ### My name is @idelfrides
-- 👀 I’m a Computer Engineer and Python Full Stack Developer
-- 👀 I’m interested in  **Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic**  and I’m currently learning **Data Science**
-- 💞️ I’m looking to collaborate on projects about **Data Science**
-- 📫 How to reach me arrund web -> next section
+# Hi there, Welcome!  🖐️
+## My name is Idelfrides Jorge and I'm glad to have you here 😁
+I am a Computer Engineer and Python Full Stack Developer . 
+My interests are  **Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic**
+I’m currently learning **Data Science** .
+
+📫 How to reach me arrund web -> next section
 
 ---
 
@@ -13,13 +14,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engidelfridesjorge/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ijwm_oficial/)
 
----
 
 ➡️ **TECHNOLOGIES / PROGRAMMING LANGUAGES**
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMKarnopp&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark) -->
-
-Tecnologies:  REST API, 
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -30,8 +28,6 @@ Tecnologies:  REST API,
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
----
-
 ➡️ **DATABASES**
 <div>
   <img align="center" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=whit" />
@@ -39,16 +35,12 @@ Tecnologies:  REST API,
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
 
----
-
 ➡️  **Hosting/SaaS**
 <div>
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
-
----
 
 #### 💻**FRAMEWORKS / TOOLS / PLARFORMS / LIBRARIES**
 <div>
@@ -64,8 +56,6 @@ Tecnologies:  REST API,
   <img align="center" alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div><br/>
-
----
 
 #### ⚙️**SOFTWARES**
   <div>
@@ -84,7 +74,6 @@ Tecnologies:  REST API,
   <img align="center" alt="bitbuket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </div><br/>
 
----
 
 
 <!---
