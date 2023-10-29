@@ -1,7 +1,7 @@
 # Hi there, Welcome!  🖐️
-## My name is Idelfrides Jorge and I'm glad to have you here 😁
+My name is Idelfrides Jorge and I'm glad to have you here 😁 .
 I am a Computer Engineer and Python Full Stack Developer . 
-My interests are  **Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic**
+My interests are  **Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic**.
 I’m currently learning **Data Science** .
 
 📫 How to reach me arrund web -> next section
@@ -14,10 +14,11 @@ I’m currently learning **Data Science** .
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engidelfridesjorge/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ijwm_oficial/)
 
+---
 
-➡️ **TECHNOLOGIES / PROGRAMMING LANGUAGES**
+➡️ **TECHNOLOGIES / DEV LANGUAGES**
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMKarnopp&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelfrides&size_weight=1&count_weight=2&show_icons=true&theme=dark)
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -64,8 +65,6 @@ I’m currently learning **Data Science** .
     <img align="center" alt="inkscape" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
     <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </div><br/>
-
----
 
 #### 🚀**VERSION CONTROL**
 <div>
