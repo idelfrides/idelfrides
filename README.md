@@ -10,7 +10,7 @@
 
 - I’m currently learning **Data Science**  🎯 .
   
-- 💬 Ask me about Python, Go(Golang), Django, Flask, SQL, Data Science universe.
+- 💬 Ask me about Python, Django, SQL, Data Science universe.
 
 - 👨‍💻 More at [My Website](https://linktr.ee/ijwm_oficial)
 
