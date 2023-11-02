@@ -12,7 +12,7 @@
   
 - 💬 Ask me about Python, Django, SQL, Data Science universe.
 
-- 👨‍💻 More at [My Website](https://linktr.ee/ijwm_oficial)
+- 👨‍💻 More at [idelfridesjorgeengineer.com](https://idelfridesjorgeengineer.com/)
 
 
 ## Contact Me
