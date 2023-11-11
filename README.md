@@ -1,4 +1,4 @@
-# Hi there, You're Welcome! 🖐️
+# Hi, You're Welcome! 🖐️
 
  My name is *Idelfrides Jorge* and I'm glad to have you here .
 
