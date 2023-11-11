@@ -34,7 +34,7 @@ GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merk
 ➡️ **TECHNOLOGIES / DEV LANGUAGES**
 
 <!-- LAYOUTS :  layout=compact , donut, donut-vertical, PIE -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelfrides&show_owner=true&langs_count=10&layout=donut&size_weight=1&count_weight=2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelfrides&show_owner=true&langs_count=10&layout=compact&size_weight=1&count_weight=2&show_icons=true&theme=radical)
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
