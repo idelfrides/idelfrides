@@ -12,7 +12,7 @@
   
 - Let's talk about Python, Django, SQL, Data Science universe and Artificial Intelligences 🗣️
 
-- More at [My website](https://linktr.ee/ijwm_oficial) 🚀
+- See More at [My website](https://linktr.ee/ijwm_oficial) 🚀
 
 
 ## Contact Me
