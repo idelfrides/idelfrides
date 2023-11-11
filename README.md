@@ -25,7 +25,7 @@
 ---
 
 <!-- GitHub Extra Pins -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idelfrides&show_owner=idelfrides&repo=idelfrides)](https://github.com/idelfrides/idelfrides)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idelfrides&show_owner=idelfrides&repo=idelfrides)](https://github.com/idelfrides/idelfrides) -->
 
 <!-- All inbuilt themes  
 
