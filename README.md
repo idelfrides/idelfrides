@@ -27,12 +27,14 @@
 <!-- All inbuilt themes
 GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).  -->
 
-[![Idelfrides's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&github_logo=true&show_icons=true&show=prs_merged&theme=radical)](https://github.com/idelfrides/github-readme-stats)
+[![Idelfrides's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&layout=donut&github_logo=true&show_icons=true&show=prs_merged&theme=radical)](https://github.com/idelfrides/github-readme-stats)
+
 
 ---
 ➡️ **TECHNOLOGIES / DEV LANGUAGES**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelfrides&show_owner=true&langs_count=8&layout=compact&size_weight=1&count_weight=2&show_icons=true&theme=radical)
+<!-- LAYOUTS :  layout=compact , donut, donut-vertical, PIE -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelfrides&show_owner=true&langs_count=10&layout=donut&size_weight=1&count_weight=2&show_icons=true&theme=radical)
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
