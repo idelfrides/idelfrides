@@ -24,7 +24,11 @@
 
 ---
 
-<!-- All inbuilt themes
+<!-- GitHub Extra Pins -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idelfrides&show_owner=idelfrides&repo=idelfrides)](https://github.com/idelfrides/idelfrides)
+
+<!-- All inbuilt themes  
+
 GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).  -->
 
 [![Idelfrides's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&layout=donut&github_logo=true&show_icons=true&show=prs_merged&theme=radical)](https://github.com/idelfrides/github-readme-stats)
