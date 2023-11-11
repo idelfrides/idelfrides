@@ -2,23 +2,24 @@
 
  My name is *Idelfrides Jorge* and I'm glad to have you here .
 
--  I am a Computer Engineer and Python Full Stack Developer  🔥 . 
+-  I am a Computer Engineer and Python Full Stack Developer 💪🏽 🔥 . 
 
 - I am currently working at [Instituto Atlântico](https://www.atlantico.com.br/)  💖
 
-- My interests are  *Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic*.
+- My interests are  *Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic* 👨🏽‍💻 📝
 
 - I’m currently learning **Data Science**  🎯 .
   
-- 💬 Ask me about Python, Django, SQL, Data Science universe.
+- Let's talk about Python, Django, SQL, Data Science universe and Artificial Intelligences 🗣️
 
-- 👨‍💻 More at [My website](https://linktr.ee/ijwm_oficial)
+- More at [My website](https://linktr.ee/ijwm_oficial) 🚀
 
 
 ## Contact Me
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ijwm_oficial)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://idelfridesjorgeengineer.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engidelfridesjorge/)
+<!-- [![Dev.to Portfolio](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://idelfridesjorgeengineer.com/) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ijwm_oficial/) -->
 
 ---
@@ -47,6 +48,7 @@ GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merk
   <img align="center" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=whit" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
 
 ➡️  **CLOUD/HOSTING/SAAS**
@@ -77,6 +79,11 @@ GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merk
     <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <img align="center" alt="inkscape" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
     <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img align="center" alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" />
+    <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+    <br>
+    <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+    <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </div><br/>
 
 #### 🚀**VERSION CONTROL**
