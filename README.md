@@ -4,7 +4,7 @@
 
 -  I am a Computer Engineer and Python Full Stack Developer 💪🏽 🔥 . 
 
-- I am currently working at [Instituto Atlântico](https://www.atlantico.com.br/)  💖
+<!-- - I am currently working at [Instituto Atlântico](https://www.atlantico.com.br/)  💖 -->
 
 - My interests are  *Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic* 👨🏽‍💻 📝
 
