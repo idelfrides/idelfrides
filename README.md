@@ -1,18 +1,22 @@
 # Hi, You're Welcome! 👋
 
- My name is **Idelfrides Jorge** and I'm glad to have you here .
+My name is **Idelfrides Jorge** and I'm glad to have you here .
 
--  I am a Computer Engineer and Python Full Stack Developer 💪🏽 🔥 . 
+I am a Computer Engineer and Python Full Stack Developer 💪🏽 🔥 . 
 
-<!-- - I am currently working at [Instituto Atlântico](https://www.atlantico.com.br/)  💖 -->
+My mission is Contributing to the evolution of technology in Brazil and worldwide through scalable engineering ecosystems and modern software architecture.
 
-- My interests are  *Fullstack Software Development, Data Science and Artificial Intelligence enthusiastic* 👨🏽‍💻 📝
+I am currently working at [Banco BTG Pactual](https://www.btgpactual.com/)  💖
 
-- I’m currently learning **Data Science**  🎯 .
-  
-- Let's talk about Python, Django, SQL, Data Science universe and Artificial Intelligences 🗣️
+My interests are  *Fullstack Software Developmentc nd Artificial Intelligence enthusiastic* 👨🏽‍💻 📝
 
-- See More at [My website](https://linktr.ee/ijwm_oficial) 🚀
+I’m currently learning **Data Science**  🎯 .
+
+Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artificial Intelligences 🗣️
+
+See More at [My website](https://linktr.ee/ijwm_oficial) 🚀
+
+Visit My Github Organization : [IJDEVPRO Engineering](https://github.com/IJDEVPRO-Org)
 
 
 ## Contact Me
