@@ -1,32 +1,37 @@
-# Hi, You're Welcome! 👋
-
-My name is **Idelfrides Jorge** and I'm glad to have you here .
+# Hi, There! I'm Glad to Have You Here! 👋
 
 I am a Computer Engineer and Python Full Stack Developer 💪🏽 🔥 . 
 
-My mission is Contributing to the evolution of technology in Brazil and worldwide through scalable engineering ecosystems and modern software architecture.
+My mission is Contributing to the evolution of technology in Brazil and worldwide through scalable engineering ecosystems and modern software architecture.🎯
 
-I am currently working at [Banco BTG Pactual](https://www.btgpactual.com/)  💖
+<!-- 
+My name is **Idelfrides Jorge** .
+I am currently working at [Banco BTG Pactual](https://www.btgpactual.com/) 💖 
+I’m currently learning **Data Science**  🎯 .
+Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artificial Intelligences 🗣️
+-->
 
 My interests are  *Fullstack Software Developmentc nd Artificial Intelligence enthusiastic* 👨🏽‍💻 📝
 
-I’m currently learning **Data Science**  🎯 .
+See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;  Visit My Github Organization : [IJDEVPRO Engineering](https://github.com/IJDEVPRO-Org)  🚀  
 
-Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artificial Intelligences 🗣️
+<br>
 
-See More at [My website](https://linktr.ee/ijwm_oficial) 🚀
+![Status](https://img.shields.io/badge/Status-active-success)
+![Current Job](https://img.shields.io/badge/CurrentJob-Banco--BTG--Pactual-darkblue)
+![Focus](https://img.shields.io/badge/ProfessionaFocus-continuous--evolution-purple)
+![Working](https://img.shields.io/badge/WorkingON-myself--to--became--better-darkgreen)
 
-Visit My Github Organization : [IJDEVPRO Engineering](https://github.com/IJDEVPRO-Org)
+<br>
 
+---
 
-## Contact Me
+### 📲 Contact Me
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ijwm_oficial)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://idelfridesjorgeengineer.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engidelfridesjorge/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<!-- [![Dev.to Portfolio](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://idelfridesjorgeengineer.com/) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ijwm_oficial/) -->
-
----
 
 <!-- GitHub Extra Pins -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idelfrides&show_owner=idelfrides&repo=idelfrides)](https://github.com/idelfrides/idelfrides) -->
@@ -35,12 +40,10 @@ Visit My Github Organization : [IJDEVPRO Engineering](https://github.com/IJDEVPR
 
 GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).  -->
 
-➡️ **MY GITHUB STATS**
-<br>
-<br>
+### ➡️ **MY GITHUB STATS**
+<br> <br>
 [![Idelfrides's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&layout=donut&github_logo=true&show_icons=true&show=prs_merged&theme=merko&hide=contribs&hide_rank=true)](https://github.com/idelfrides/github-readme-stats)
-<br>
-<br>
+<br><br>
 
 <!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idelfrides&show_icons=true&theme=merko&hide=contribs)](https://github.com/idelfrides)
@@ -66,9 +69,8 @@ GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merk
 </div>
 -->
 
----
 
-➡️ **TECHNOLOGIES / DEVELOPMENT LANGUAGES**
+### ➡️ **TECHNOLOGIES / DEVELOPMENT LANGUAGES**
 <div style="display: inline">
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -80,12 +82,12 @@ GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merk
   <img align="center" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
 </div><br/>
 
-➡️ **STATS OF LANGUAGES**
+### ➡️ **STATS OF LANGUAGES**
 <!-- LAYOUTS :  layout=compact , donut, donut-vertical, PIE -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idelfrides&show_owner=true&langs_count=10&layout=compact&size_weight=1&count_weight=2&show_icons=true&theme=merko)
 
 
-➡️ **DATABASES**
+### ➡️ **DATABASES**
 <div>
   <img align="center" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=whit" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -93,14 +95,14 @@ GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merk
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
 
-➡️  **CLOUD/HOSTING/SAAS**
+### ➡️ **CLOUD/HOSTING/SAAS**
 <div>
   <img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
 
-#### 💻**FRAMEWORKS / TOOLS / PLATFORMS / LIBRARIES**
+### 💻**FRAMEWORKS / TOOLS / PLATFORMS / LIBRARIES**
 <div>
   <img align="center" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
@@ -116,7 +118,7 @@ GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merk
   <img align="center" alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </div><br/>
 
-#### ⚙️**IDEs/Editors/SOFTWARES**
+#### ⚙️ **IDEs/Editors/SOFTWARES**
   <div>
     <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -141,7 +143,7 @@ GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merk
    
   </div><br/>
 
-#### 🚀**VERSION CONTROL**
+#### 🚀 **VERSION CONTROL**
 <div>
   <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
