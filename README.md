@@ -1,4 +1,4 @@
-# Hi, There! I'm Glad to Have You Here! 👋
+  # Hi, There! I'm Glad to Have You Here! 👋
 
 I am a Computer Engineer and Python Full Stack Developer 💪🏽 🔥 . 
 
@@ -25,6 +25,11 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 <br>
 
 ---
+
+# SKILL ICONS TEST
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,linkedin)](https://skillicons.dev)
+<br><br>
 
 ### 📲 Contact Me
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ijwm_oficial)
