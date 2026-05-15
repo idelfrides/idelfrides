@@ -37,10 +37,11 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 ### 📲 Contact Me
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ijwm_oficial)
-[![Dev.to Portfolio](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://idelfridesjorgeengineer.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engidelfridesjorge/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://idelfridesjorgeengineer.com/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://idelfridesjorgeengineer.com/) -->
+
+<!-- [![Dev.to Portfolio](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://idelfridesjorgeengineer.com/)-->
 
 
 <!-- Linktree: Skill Icons não possui suporte oficial → alternativa mais próxima -->
@@ -75,8 +76,6 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 
 [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,docker,kafka,react,bootstrap,wordpress)](https://skillicons.dev)
 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
 
 ### ⚙️ IDEs/Editors/SOFTWARES
 
@@ -89,17 +88,19 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 
+
 ### 🧰 Additional Tools & Platforms
 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 <!---
