@@ -53,7 +53,7 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 [![My Skills](https://skillicons.dev/icons?i=gmail)]()
 -->
 
-
+<!--
 ### 📊 Engineering Activity V1 [ merko ]
 
 [![Idelfrides's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idelfrides&layout=donut&github_logo=true&show_icons=true&show=prs_merged&theme=merko&hide=contribs&hide_rank=true)](https://github.com/idelfrides/github-readme-stats)
@@ -72,7 +72,14 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 ### 📊 Engineering Activity V5 [ one_dark_pro ]
 
 [![Idelfrides's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idelfrides&show_icons=true&theme=one_dark_pro&hide=contribs&hide_rank=true&cache_seconds=1800)](https://github.com/idelfrides/github-readme-stats)
+-->
 
+
+### 📊 Engineering Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idelfrides&theme=github_dark) 
+
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idelfrides&theme=github_dark)-->
 
 
 ### 🧠 Engineering Stack
