@@ -1,6 +1,6 @@
   # Hi, There! I'm Glad to Have You Here! 👋
 
-I am a Computer Engineer and Python Full Stack Developer 💪🏽 🔥 . 
+Computer Engineer and Software Engineer focused on scalable systems, backend engineering, and modern software architecture and Artificial Intelligence enthusiastic 💪🏽 🔥 . 
 
 My mission is Contributing to the evolution of technology in Brazil and worldwide through scalable engineering ecosystems and modern software architecture.🎯
 
@@ -11,7 +11,7 @@ I’m currently learning **Data Science**  🎯 .
 Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artificial Intelligences 🗣️
 -->
 
-My interests are  *Fullstack Software Developmentc nd Artificial Intelligence enthusiastic* 👨🏽‍💻 📝
+<!-- My interests are  *Fullstack Software Developmentc nd Artificial Intelligence enthusiastic* 👨🏽‍💻 📝 -->
 
 See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;  Visit My Github Organization : [IJDEVPRO Engineering](https://github.com/IJDEVPRO-Org)  🚀  
 
@@ -34,7 +34,7 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/engidelfridesjorge/)
 -->
 
-### 📲 Contact Me
+### 🌐 Professional Network
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ijwm_oficial)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engidelfridesjorge/)
@@ -54,37 +54,38 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 -->
 
 
-### ➡️ **MY GITHUB STATS**
-<br> <br>
-[![Idelfrides's GitHub stats](https://github-readme-stats.vercel.app/api?username=idelfrides&layout=donut&github_logo=true&show_icons=true&show=prs_merged&theme=merko&hide=contribs&hide_rank=true)](https://github.com/idelfrides/github-readme-stats)
-<br><br>
+### 📊 Engineering Activity
+
+[![Idelfrides's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idelfrides&layout=donut&github_logo=true&show_icons=true&show=prs_merged&theme=merko&hide=contribs&hide_rank=true)](https://github.com/idelfrides/github-readme-stats)
 
 
-### ➡️ TECHNOLOGIES / DEVELOPMENT LANGUAGES
+### 🧠 Engineering Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,dotnet,cs,go,js,html,css,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,dotnet,cs,go)](https://skillicons.dev)
 
-### ➡️ DATABASES
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,graphql)](https://skillicons.dev)
+
+### 🗄️ Database Engineering
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
 
-### ➡️ CLOUD/HOSTING/SAAS
+### ☁️ Cloud Ecosystem
 
 [![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp)](https://skillicons.dev)
 
-### 💻 FRAMEWORKS / TOOLS / PLATFORMS / LIBRARIES
+### ⚙️ Development Ecosystem
 
 [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,docker,kafka,react,bootstrap,wordpress)](https://skillicons.dev)
 
 
-### ⚙️ IDEs/Editors/SOFTWARES
+### 🛠️ Engineering Workspace
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,sublime)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vim,atom,arduino)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 
-### 🚀 VERSION CONTROL
+### 🔀 Version Control & Collaboration
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 
