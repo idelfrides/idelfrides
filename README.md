@@ -79,7 +79,7 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idelfrides&theme=github_dark) 
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idelfrides&theme=github_dark)-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idelfrides&theme=github_dark)
 
 
 ### 🧠 Engineering Stack
