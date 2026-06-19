@@ -1,8 +1,8 @@
   # Hi, There! I'm Glad to Have You Here! 👋
 
-Computer Engineer and Software Engineer focused on scalable systems, backend engineering, and modern software architecture and Artificial Intelligence enthusiastic 💪🏽 🔥 . 
+Computer Engineer and Software Engineer focused on scalable systems, backend engineering and Artificial Intelligence enthusiastic 💪🏽 🔥 . 
 
-My mission is Contributing to the evolution of technology in Brazil and worldwide through scalable engineering ecosystems and modern software architecture.🎯
+My mission is Contributing to the evolution of technology in Brazil and worldwide through scalable engineering ecosystems and modern software development.🎯
 
 <!-- 
 My name is **Idelfrides Jorge** .
