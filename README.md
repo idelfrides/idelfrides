@@ -19,8 +19,8 @@ See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbs
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Current Job](https://img.shields.io/badge/Current_Job-Banco_BTG_Pactual-darkblue)
-![Focus](https://img.shields.io/badge/Professional_Focus-Continuous_Evolution-purple)
-![Working](https://img.shields.io/badge/Working_ON-Myself_to_became_better-darkgreen)
+![Goal](https://img.shields.io/badge/Goal-Professional_Continuous_Evolution-purple)
+![Working](https://img.shields.io/badge/Working_ON-Myself_to_became_better-cyan)
 
 ---
 <!--
