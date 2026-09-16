@@ -15,7 +15,14 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
 
 <!-- ![Ilistração dos cusros de Claude para se tornar expert em IA](https://github.com/idelfrides/IJDevNotes/IMAGES/cursos_claude.jpg) -->
 
-![Descrição da imagem](https://raw.githubusercontent.com/idelfrides/IJDevNotes/main/IMAGES/unicos_curos_AI_2026.jpg)
+<!-- SOME OF Y BADGES GOES HERE -->
+<p align="align">
+  <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/BADGE-aws-certified-cloud-practitioner.png" alt="AWS Badge" width="130"/> 
+  <!-- <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/aws-badge.png" alt="AWS Badge" width="150"/>
+  <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/azure-badge.png" alt="Azure Badge" width="150"/>
+  <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/gcp-badge.png" alt="GCP Badge" width="150"/> -->
+</p>
+
 
 
 See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;  Visit My Github Organization : [IJDEVPRO Engineering](https://github.com/IJDEVPRO-Org)  🚀  
