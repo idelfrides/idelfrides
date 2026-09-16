@@ -15,7 +15,7 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
 
 <!-- ![Ilistração dos cusros de Claude para se tornar expert em IA](https://github.com/idelfrides/IJDevNotes/IMAGES/cursos_claude.jpg) -->
 
-![Descrição da imagem](https://raw.githubusercontent.com/idelfrides/IJDevNotes/main/IMAGES/cursos_claude.jpg)
+![Descrição da imagem](https://raw.githubusercontent.com/idelfrides/IJDevNotes/main/IMAGES/unicos_curos_AI_2026.jpg)
 
 
 See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;  Visit My Github Organization : [IJDEVPRO Engineering](https://github.com/IJDEVPRO-Org)  🚀  
