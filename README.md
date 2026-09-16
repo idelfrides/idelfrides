@@ -18,8 +18,6 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
 <!-- SOME OF Y BADGES GOES HERE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/BADGE-aws-certified-cloud-practitioner.png" alt="AWS Badge" width="120"/>    
-  <!-- [<img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt="Certificates & Badges Collection" width="120"/>](https://encurtador.com.br/FPKk) -->
-
   <a href="https://github.com/idelfrides/portfolio-assets/tree/main/badges">
     <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt="Certificates & Badges Collection" width="120"/>
   </a>
@@ -29,7 +27,7 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
 </p>
 <hr>
   <a href="https://encurtador.com.br/FPKk">
-    <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt="Certificates & Badges Collection" width="120"/>
+    <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges_minimalist.png" alt="Certificates & Badges Collection" width="120"/>
   </a>
 <!-- [<img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/certificates-badge.png" alt="Certificates & Badges" width="200"/>](https://github.com/idelfrides/portfolio-assets/tree/main/certificates)
 
