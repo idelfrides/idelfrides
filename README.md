@@ -18,6 +18,7 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
 <!-- SOME OF Y BADGES GOES HERE -->
 <p align="align">
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/BADGE-aws-certified-cloud-practitioner.png" alt="AWS Badge" width="130"/> 
+  <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt=""Certificates & Badges Collection" width="130"/> 
   <!-- <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/aws-badge.png" alt="AWS Badge" width="150"/>
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/azure-badge.png" alt="Azure Badge" width="150"/>
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/gcp-badge.png" alt="GCP Badge" width="150"/> -->
