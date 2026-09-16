@@ -16,14 +16,24 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
 <!-- ![Ilistração dos cusros de Claude para se tornar expert em IA](https://github.com/idelfrides/IJDevNotes/IMAGES/cursos_claude.jpg) -->
 
 <!-- SOME OF Y BADGES GOES HERE -->
-<p align="align">
-  <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/BADGE-aws-certified-cloud-practitioner.png" alt="AWS Badge" width="130"/> 
-  <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt=""Certificates & Badges Collection" width="130"/> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/BADGE-aws-certified-cloud-practitioner.png" alt="AWS Badge" width="120"/>    
+  <!-- [<img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt="Certificates & Badges Collection" width="120"/>](https://encurtador.com.br/FPKk) -->
+
+  <a href="https://github.com/idelfrides/portfolio-assets/tree/main/badges">
+    <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt="Certificates & Badges Collection" width="120"/>
+  </a>
   <!-- <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/aws-badge.png" alt="AWS Badge" width="150"/>
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/azure-badge.png" alt="Azure Badge" width="150"/>
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/gcp-badge.png" alt="GCP Badge" width="150"/> -->
 </p>
+<hr>
+  <a href="https://encurtador.com.br/FPKk">
+    <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt="Certificates & Badges Collection" width="120"/>
+  </a>
+<!-- [<img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/certificates-badge.png" alt="Certificates & Badges" width="200"/>](https://github.com/idelfrides/portfolio-assets/tree/main/certificates)
 
+![<img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt="Certificates & Badges Collection" width="130"/>](https://encurtador.com.br/FPKk) -->
 
 
 See More at [My website](https://linktr.ee/ijwm_oficial) 🚀   &nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;  Visit My Github Organization : [IJDEVPRO Engineering](https://github.com/IJDEVPRO-Org)  🚀  
