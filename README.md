@@ -18,17 +18,18 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
 <!-- SOME OF Y BADGES GOES HERE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/BADGE-aws-certified-cloud-practitioner.png" alt="AWS Badge" width="120"/>    
-  <a href="https://github.com/idelfrides/portfolio-assets/tree/main/badges">
-    <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt="Certificates & Badges Collection" width="120"/>
+  <a href="https://github.com/idelfrides/portfolio-assets/tree/main/">
+    <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/images/Certificates_and_Badges_minimalist.png" alt="Certificates & Badges Collection" width="190"/>
   </a>
   <!-- <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/aws-badge.png" alt="AWS Badge" width="150"/>
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/azure-badge.png" alt="Azure Badge" width="150"/>
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/gcp-badge.png" alt="GCP Badge" width="150"/> -->
 </p>
-<hr>
-  <a href="https://encurtador.com.br/FPKk">
-    <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges_minimalist.png" alt="Certificates & Badges Collection" width="120"/>
-  </a>
+<!-- <hr> -->
+
+  <!-- <a href="https://encurtador.com.br/FPKk">
+    <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/images/Certificates_and_Badges_minimalist.png" alt="Certificates & Badges Collection" width="300"/>
+  </a> -->
 <!-- [<img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/certificates-badge.png" alt="Certificates & Badges" width="200"/>](https://github.com/idelfrides/portfolio-assets/tree/main/certificates)
 
 ![<img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Certificates_and_Badges.jpeg" alt="Certificates & Badges Collection" width="130"/>](https://encurtador.com.br/FPKk) -->
