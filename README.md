@@ -29,7 +29,7 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/azure-badge.png" alt="Azure Badge" width="150"/>
   <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/gcp-badge.png" alt="GCP Badge" width="150"/> -->
 </p>
-<i>EMEXPLO DO I</i>
+
 <!-- <hr> -->
 
   <!-- <a href="https://encurtador.com.br/FPKk">
