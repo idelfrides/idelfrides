@@ -21,7 +21,10 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
      <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/BADGE-aws-certified-cloud-practitioner.png" alt="AWS Badge" width="90" title="AWS Certified Cloud Practitioner - Foundational"/>
   </a>
   <a href="https://www.skills.google/profile/badges?credential_type=skill_badge" target="_blank"> 
-     <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Badge-Introduction to Generative AI.png" alt="Google Cloud Badge" width="90" title="Google Cloud | Introduction to Generative AI"/>
+     <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Badge-Introduction to Generative AI.png" alt="Google Cloud Badge" width="90" title="Introduction to Generative AI"/>
+  </a>
+  <a href="https://www.skills.google/profile/badges?credential_type=skill_badge" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/Badge-Introduction to Large Language Models.png" alt="Google Cloud Badge" width="90" title="Introduction to Large Language Models"/>
   </a>
   <a href="https://github.com/idelfrides/portfolio-assets/tree/main/"  target="_blank">
      <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/images/Certificates_and_Badges_minimalist.png" alt="Certificates & Badges Collection" width="150" title="Click to view all Certificates & Badges" />
