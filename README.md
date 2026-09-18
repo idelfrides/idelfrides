@@ -20,7 +20,7 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
   <a href="https://www.credly.com/users/engidelfridesjorge/badges/credly" target="_blank">
      <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/BADGE-aws-certified-cloud-practitioner.png" alt="AWS Badge" width="100" title="AWS Certified Cloud Practitioner - Foundational"/>
   </a>
-  <a href="https://github.com/idelfrides/portfolio-assets/tree/main/" target="_blank">
+  <a href="https://github.com/idelfrides/portfolio-assets/tree/main/"  target="_blank">
      <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/images/Certificates_and_Badges_minimalist.png" alt="Certificates & Badges Collection" width="170" title="Click to view all Certificates & Badges" />
   </a>
   <!-- <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/aws-badge.png" alt="AWS Badge" width="150"/>
