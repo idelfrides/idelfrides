@@ -17,11 +17,11 @@ Let's talk about .NET/C#, Python, Django, SQL, Data Science universe and Artific
 
 <!-- SOME OF Y BADGES GOES HERE -->
 <p align="center">
-  <a href="https://www.credly.com/users/engidelfridesjorge/badges/credly">
+  <a href="https://www.credly.com/users/engidelfridesjorge/badges/credly" target="_blank">
     <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/badges/BADGE-aws-certified-cloud-practitioner.png"
          alt="AWS Badge" width="120" title="AWS Certified Cloud Practitioner - Foundational"/>
   </a>
-  <a href="https://github.com/idelfrides/portfolio-assets/tree/main/">
+  <a href="https://github.com/idelfrides/portfolio-assets/tree/main/" target="_blank">
     <img src="https://raw.githubusercontent.com/idelfrides/portfolio-assets/main/images/Certificates_and_Badges_minimalist.png" 
          alt="Certificates & Badges Collection" width="190" title="Click to view all Certificates & Badges" />
   </a>
